@@ -14,3 +14,8 @@ Next we have to setup a GitHub account(**which I already have!!**), and should c
 
 ![image](https://user-images.githubusercontent.com/86511074/171017105-04010f3d-8664-4a52-82a3-75d52b852bec.png)
 
+Then we have to create a text file called HelloWorld.md and Add a line "## This is a markdown file" to the document, then push that document to the repo we created.
+
+![image](https://user-images.githubusercontent.com/86511074/171018863-e2d88ad6-7bc9-4c39-a15c-53c6aabff192.png)
+
+And that's it for the project, so excited to see what's gonna be in upcoming courses!!!!!!!
